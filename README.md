@@ -1,1 +1,1 @@
-No idea what I am doing
+Computer Science student at the University of St Andrews
