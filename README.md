@@ -22,7 +22,6 @@ I am interested in various areas of computer science, including but not limited 
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 
-## Github statistics:
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GrahamHeathcote&theme=dark)
-
-
+## Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourusername)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
