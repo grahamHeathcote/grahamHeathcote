@@ -10,5 +10,5 @@ I’m interested in many areas of Computer Science, with most of my experience c
 
 I'm always looking for new opportunities — feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/grahamh-eathcote)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/graham-heathcote)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:grahamkheathcote@gmail.com)
