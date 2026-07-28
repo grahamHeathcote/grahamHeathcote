@@ -1,8 +1,6 @@
 ## About Me
 
-I'm currently in my fourth year at the University of St Andrews studying Computer Science.
-
-Although I study in Scotland, I grew up in Minneapolis and plan to move back after graduating.
+I'm a graduate of the University of St Andrews currently living in Minneapolis.
 
 I’m interested in many areas of Computer Science, with most of my experience coming from DevOps (through past internships) and web development (through freelance work).
 
